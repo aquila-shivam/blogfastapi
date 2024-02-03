@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+venv/
+env/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+__pycache__/
+node_modules/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment variable files
+.env
+
+# Local configuration files
+*.ini
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
