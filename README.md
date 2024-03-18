@@ -38,7 +38,7 @@ A simple RESTful API for managing blog posts using FastAPI.
     Open [http://localhost:8000/docs](http://localhost:8000/docs) for Swagger documentation.
 
 5. **API Endpoints:**
-
+   - `/docs` : Use FastApi 
    - `/blogs`: CRUD for blog posts
    - `/users`: User authentication and profile management
 
