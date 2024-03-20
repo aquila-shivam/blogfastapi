@@ -1,4 +1,6 @@
 # main.py
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import HTMLResponse
 from fastapi import FastAPI
 from api.auth import router as auth_router
 from api.blog import router as blog_router
