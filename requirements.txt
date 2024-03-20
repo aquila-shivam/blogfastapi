@@ -5,3 +5,4 @@ pymongo==4.6.1
 python_jose==3.3.0
 SQLAlchemy==1.4.26
 uvicorn==0.15.0
+python-multipart==0.0.9
