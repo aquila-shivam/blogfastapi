@@ -48,8 +48,8 @@ async def welcome_page():
     <body>
         <div class="container">
             <h1>Welcome to My FastAPI App</h1>
-            <p>This is a FastAPI application.</p>
-            <p>Check out our <a href="/docs">API Documentation</a>.</p>
+            <p>This is a zupay assesment.</p>
+            <p>Check out our <a href="/docs">API Documentation to test api's</a>.</p>
         </div>
     </body>
     </html>
